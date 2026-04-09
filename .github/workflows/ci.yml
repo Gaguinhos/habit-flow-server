@@ -1,0 +1,6 @@
+name: Run PR Checks
+on: [pull_request]
+
+jobs:
+  call-master-workflow:
+    uses: Gaguinhos/.github/.github/workflows/master-ci.yml@main
