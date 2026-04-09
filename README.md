@@ -88,6 +88,8 @@ Habit {
 * Express.js
 * TypeScript
 * MongoDB / PostgreSQL
+* python
+
 
 ---
 
